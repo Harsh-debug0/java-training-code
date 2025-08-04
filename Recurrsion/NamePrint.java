@@ -5,8 +5,10 @@ public class NamePrint {
     if(n==0){
         return;
     }
-    System.out.println("Harsh Shishodia");
-    show(n-1);
+    System.out.println("Harsh "+n); //pre logic
+    show(n-1); // recurrence relation
+    // post logic - backtracking
+    System.out.println("Shishodia "+n);
     
 }
     public static void main(String[] args) {
