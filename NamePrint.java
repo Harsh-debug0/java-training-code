@@ -1,5 +1,3 @@
-package Recurrsion;
-
 public class NamePrint {
     static void show(int n){
     if(n==0){
