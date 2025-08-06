@@ -20,3 +20,16 @@ public class TableRec {
         System.out.println(r);
     }
 }
+
+
+
+//sum of digit 123 o/p 6 try with void and int return
+//check prime or not try with void and int return
+//check armstrong or not try with void & boolean return
+//count no of zeros
+//convert binary to decimal
+//sum of n natural numbers
+//find out number is strong or not
+//count even odd digits in a number
+//print power of a number
+//num to string conversion 123 - one two three
